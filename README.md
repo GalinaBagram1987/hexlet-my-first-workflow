@@ -1,0 +1,1 @@
+[![show-directory](https://github.com/GalinaBagram1987/hexlet-my-first-workflow/actions/workflows/showgreetig.yml/badge.svg)](https://github.com/GalinaBagram1987/hexlet-my-first-workflow/actions/workflows/showgreetig.yml)
